@@ -9,7 +9,9 @@
 ### 10/22/26:
 * Tinkered with both of my tools within my Chromebook but they weren't avaliable to use so used my home computer.
 * Looked at the documentation on both sites as well as tutorial on YouTube.
-* 
+* For <a href = "https://openjfx.io/openjfx-docs/">JavaFX</a> and <a href = "https://flask.palletsprojects.com/en/stable/installation/"></a>
+
+
 
 ### X/X/XX:
 * Text
