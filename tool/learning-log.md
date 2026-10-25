@@ -6,8 +6,10 @@
 
 ---
 
-### X/X/XX:
-* Text
+### 10/22/26:
+* Tinkered with both of my tools within my Chromebook but they weren't avaliable to use so used my home computer.
+* Looked at the documentation on both sites as well as tutorial on YouTube.
+* 
 
 ### X/X/XX:
 * Text
