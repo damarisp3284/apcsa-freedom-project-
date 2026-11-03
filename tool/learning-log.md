@@ -1,8 +1,8 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Flask**
 
-## Project: **X**
+## Project: **Crytography**
 
 ---
 
@@ -18,8 +18,8 @@
 
 
 
-### X/X/XX:
-* Text
+### 11/3/26:
+* Started to follow tutorials and learn more about python 
 
 
 <!-- 
